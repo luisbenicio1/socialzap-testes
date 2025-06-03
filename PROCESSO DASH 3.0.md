@@ -132,7 +132,7 @@ No gráfico de **NPS**, será necessário criar fórmulas personalizadas:
 ![Imagem do Passo 7 Seção 3](imagensDASH3/passo7secao3.png)
 ![Imagem do Passo 7 Seção 3](imagensDASH3/passo7secao3(1).png)
 
-> **Nota:**  
+> **NOTA:**  
 > Verifique se está criando na **fonte de dados correta** clicando no gráfico e conferindo a “Fonte de dados”.
 
 ### Passo 8:

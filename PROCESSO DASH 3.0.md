@@ -129,11 +129,11 @@ No gráfico de **NPS**, será necessário criar fórmulas personalizadas:
 - Clique no campo **Recurso**  
 - Vá em **“Gerenciar fontes de dados selecionadas”** e **editar**
 
-> **Nota:**  
-> Verifique se está criando na **fonte de dados correta** clicando no gráfico e conferindo a “Fonte de dados”.
-
 ![Imagem do Passo 7 Seção 3](imagensDASH3/passo7secao3.png)
 ![Imagem do Passo 7 Seção 3](imagensDASH3/passo7secao3(1).png)
+
+> **Nota:**  
+> Verifique se está criando na **fonte de dados correta** clicando no gráfico e conferindo a “Fonte de dados”.
 
 ### Passo 8:
 Clique em **“Adicionar um campo”** e depois em **“Adicionar campo calculado”**

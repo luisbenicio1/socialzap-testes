@@ -4,8 +4,6 @@
 Processo feito a partir do vídeo:  
 [https://drive.google.com/file/d/1VdGrTgD7BJjoLTxPtmgE0ka2W5iSU4KX/view](https://drive.google.com/file/d/1VdGrTgD7BJjoLTxPtmgE0ka2W5iSU4KX/view)
 
----
-
 ## 📊 SEÇÃO 1 – GOOGLE SHEETS
 
 ### Passo 1:

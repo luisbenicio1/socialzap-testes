@@ -121,7 +121,7 @@ Verifique **propriedades**, **campos de origem** e **bases de dados**.
 
 ![Imagem do Passo 6 Seção 3](imagensDASH3/passo6secao3.png)
 
-**NOTA:** Nesse caso a aba “campo principal” está correto, pois na propriedade do gráfico da Don Carlos esta igual ao gráfico da Grão Café. Porém na aba “dimensão do período” está diferente, nesse caso precisamos excluir o campo da Don Carlos para ficar igual ao da Grão Café.
+>**NOTA:** Nesse caso a aba “campo principal” está correto, pois na propriedade do gráfico da Don Carlos esta igual ao gráfico da Grão Café. Porém na aba >“dimensão do período” está diferente, nesse caso precisamos excluir o campo da Don Carlos para ficar igual ao da Grão Café.
 
 ### Passo 7:
 No gráfico de **NPS**, será necessário criar fórmulas personalizadas:
@@ -151,7 +151,7 @@ Crie as fórmulas na seguinte ordem:
 6. `NPS_final`
 
 ![Imagem das Fórmulas NPS](imagensDASH3/passo9secao3.png)
-**NOTA:** Antes de copiar as fórmulas, verifique como está escrito na planilha, por padrão as fórmulas estão apenas como ‘promotor’ / ‘detrator’, porém dependendo da planilha ela pode estar como ‘promotor🟢’, e caso não for corrigido a fórmula vai quebrar.
+>**NOTA:** Antes de copiar as fórmulas, verifique como está escrito na planilha, por padrão as fórmulas estão apenas como ‘promotor’ / ‘detrator’, porém >dependendo da planilha ela pode estar como ‘promotor🟢’, e caso não for corrigido a fórmula vai quebrar.
 
 ### Passo 10:
 Continue ajustando o dash comparando com o original (já implantado).  

@@ -14,7 +14,7 @@ Acessar pasta `#Onboarding` nos clientes ativos do drive:
 Procurar a companhia correta para fazer o dash 3.  
 **Exemplo:** Don Carlos Pizzaria
 
-![Imagem do Passo 1](socialzap-testes/imagensDASH3/passo1secao1.png)
+![Imagem do Passo 1](socialzap-testes/imagensDASH3/passo1 secao1.png)
 
 ### Passo 2:
 Dentro da pasta da companhia, encontrar a planilha chamada **"Dados"**.
